@@ -32,7 +32,9 @@ cd user-management-dashboard
 
 npm install
 
-4. Run the development server:
+4. download sql file and import into your own mysql
+
+5. Run the development server:
 
 npm run serve
 
