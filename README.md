@@ -40,4 +40,21 @@ npm run serve
 
 Access the application in your web browser at http://localhost:8080.
 
-change the path in env file for reaching the backend api as needed
+## Environment Configuration
+Ensure that the .env file in the project root contains the correct path to reach the backend API. Adjust the VUE_APP_API_BASE_URL to match your backend server URL if it's different from the default.
+
+## Contact Information
+For support or further information, please contact:
+
+Email: dseelan563@gmail.com
+
+## Additional Tips
+
+Customizing Themes: You can modify the theme styles in the project's CSS files to better match your preferences or branding guidelines.
+
+Extending Functionality: The application is built with modularity in mind. Feel free to extend the components and features to suit your specific needs.
+
+Deployment: For production deployment, consider using a service like Vercel, Netlify, or deploying on a custom server. Ensure to configure environment variables appropriately.
+
+By following these instructions, you should be able to set up and run the User Management Dashboard on your local machine. If you encounter any issues, please reach out via the contact information provided.
+
